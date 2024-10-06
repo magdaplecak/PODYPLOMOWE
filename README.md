@@ -1,0 +1,1 @@
+Program pozdrawia serdecznie użytkownika. 
